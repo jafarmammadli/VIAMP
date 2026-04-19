@@ -1,0 +1,5 @@
+yt-dlp
+rich
+requests
+pyfiglet
+python-mpv-jsonipc
